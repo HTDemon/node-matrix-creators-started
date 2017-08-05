@@ -1,0 +1,30 @@
+{
+  "name": "node-matrix-creators-started",
+  "version": "1.0.0",
+  "description": "Hotwords detection using snowboy or sonus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTDemon/node-matrix-creators-started.git"
+  },
+  "keywords": [
+    "hotword",
+    "matrix",
+    "creator",
+    "node"
+  ],
+  "author": "H.T.D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HTDemon/node-matrix-creators-started/issues"
+  },
+  "homepage": "https://github.com/HTDemon/node-matrix-creators-started#readme",
+  "dependencies": {
+    "node-record-lpcm16": "^0.3.0",
+    "snowboy": "^1.2.0",
+    "sonus": "^0.1.8"
+  }
+}
